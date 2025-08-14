@@ -98,11 +98,11 @@ p {
 }
 
 .btn-left:hover {
-    opacity: .8;
+    opacity: 0.8;
 }
 
 .btn-left:active {
-    opacity: .5;
+    opacity: 0.5;
 }
 
 @media screen and (max-width: 900px){
